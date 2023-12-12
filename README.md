@@ -19,6 +19,8 @@
 <a href="https://instagram.com/i.derevjannyh" rel="nofollow">![Instagram](https://img.shields.io/badge/Insatgram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>\
 <a href= mailto:ivan.der.sarapul@gmail.com rel="nofollow">![EMAIL](https://img.shields.io/badge/EMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+![](https://komarev.com/ghpvc/?username=your-github-id-edm)
+
 <!--
 **id-edm/id-edm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
